@@ -14,9 +14,11 @@ The purpose of this statistical analysis was to evaluate temperature trends in t
 
 ### June Temperature Summary
 
+![june_temps](https://user-images.githubusercontent.com/90982811/143784765-0d03114d-aa2c-4b0e-9ca8-f2c6b51a3b31.png)
 
 ### December Temperature Summary
 
+![dec_temps](https://user-images.githubusercontent.com/90982811/143784773-d8098cd2-a7e3-47c9-9a0f-70b40e4f22c5.png)
 
 ## Summary
 
